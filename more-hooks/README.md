@@ -1,6 +1,6 @@
 # Assignment | MORE REACT HOOKS
 
-**Link link:** https://more-hooks-assignment.netlify.app
+**Live link:** https://more-hooks-assignment.netlify.app
 
 <br/>
 

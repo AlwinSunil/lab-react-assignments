@@ -1,0 +1,20 @@
+input {
+  padding: 0.25rem;
+  font-size: 1rem;
+  width: 15rem;
+}
+
+.suggestions {
+  width: 15rem;
+  border: 1px solid #ddd;
+}
+
+.suggestion {
+  border-bottom: 1px solid #ddd;
+  margin-top: -1px;
+  padding: 0.25rem;
+}
+
+.suggestion:last-child {
+  border: 0px;
+}

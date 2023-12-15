@@ -9,3 +9,4 @@
 | Pro-Hooks                             | `pro-hooks`                 | https://pro-hooks-assignment.netlify.app                 |
 | Auto Complete Text Box                | `auto-complete-text-box`    | https://auto-complete-text-box-assignment.netlify.app    |
 | Pure Component                        | `pure-component`            | https://pure-component-assignment.netlify.app            |
+| Render Props - HOC                    | `hoc-render-props`          | https://hoc-render-props-assignment.netlify.app          |

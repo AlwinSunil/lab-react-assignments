@@ -11,3 +11,4 @@
 | Pure Component                        | `pure-component`            | https://pure-component-assignment.netlify.app            |
 | Render Props - HOC                    | `hoc-render-props`          | https://hoc-render-props-assignment.netlify.app          |
 | Routing                               | `router-lab`                | https://router-lab-assignment.netlify.app                |
+| Calculator App                        | `calculator-app`            | https://calculator-app-assignment-kalvium.netlify.app            |

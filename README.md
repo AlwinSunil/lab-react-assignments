@@ -14,3 +14,4 @@
 | Calculator App                        | `calculator-app`            | https://calculator-app-assignment-kalvium.netlify.app    |
 | Forms                                 | `forms`                     | https://forms-assignment-kalvium.netlify.app             |
 | ProTrips                              | `pro-trips`                 | https://pro-trips-assignment.netlify.app                 |
+| React Forms Library                   | `forms-library`             | https://forms-library-assignment.netlify.app             |

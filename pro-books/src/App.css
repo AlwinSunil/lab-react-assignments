@@ -1,0 +1,35 @@
+.app {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.book {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  border-bottom: 1px solid #222;
+  padding-bottom: 1rem;
+}
+
+.book:last-child {
+  border: 0px;
+}
+
+.details {
+  display: flex;
+  gap: 1.25rem;
+  align-items: center;
+}
+
+.details img {
+  height: fit-content;
+}
+
+.authors {
+  font-size: 1.25rem;
+  font-weight: 500;
+  display: flex;
+  gap: 1rem;
+}

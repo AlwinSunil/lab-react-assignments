@@ -1,0 +1,16 @@
+.count {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-top: 3rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin: 0.25rem;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+button:hover {
+  cursor: pointer;
+}

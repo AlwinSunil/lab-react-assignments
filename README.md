@@ -18,3 +18,4 @@
 | Pro-Books                             | `pro-books`                 | https://pro-books-assignment.netlify.app                 |
 | Redux                                 | `redux-counter`             | https://redux-counter-assignment-kalvium.netlify.app     |
 | CSS Framework                         | `css-framework`             | https://css-framework-assignment.netlify.app             |
+| Redux with thunk                      | `redux-thunk`               | https://redux-thunk-assignment.netlify.app               |

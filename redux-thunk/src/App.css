@@ -1,0 +1,11 @@
+.user {
+  border-bottom: 1px solid #222;
+}
+
+.user p {
+  font-weight: 600;
+}
+
+button:hover {
+  cursor: pointer;
+}
